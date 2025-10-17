@@ -163,6 +163,7 @@ class _BottomNavigationScreenState extends State<BottomNavigationScreen> {
           // fixedColor: Colors.black,
           selectedLabelStyle: GoogleFonts.montserrat(
             color: Colors.blue,
+
             fontWeight: FontWeight.bold,
             letterSpacing: 2, // ا// تعممت على الكل
             fontSize: 14, // الاثر داخلي بياخذ لانو الاعلى تاثيرا
